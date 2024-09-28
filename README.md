@@ -5,3 +5,6 @@
 [我的博客园](https://cnblogs.com/sea-and-sky)
 
 [我的洛谷账户](https://luogu.com.cn/https://www.luogu.com.cn/user/315930)
+
+所以只能部署静态网站可真难受
+
